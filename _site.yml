@@ -5,5 +5,5 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Second Page"
+    - text: "**Page 2** - Nothing"
       href: second_page.html
